@@ -4,8 +4,6 @@
 **Duração prevista:** 1h30
 **Entrega da aula:** Mini-Charter do projeto
 
-**Grupo:**
-
 **Integrantes:**
 
 1. Israel Magalhães 
