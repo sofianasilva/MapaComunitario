@@ -141,7 +141,6 @@ Como resultado esperado, o projeto deverá permitir que usuários encontrem um p
 | ---------------------- | ------------------------------------------------------------------------------------------------ |
 | Pontos cadastrados     | Pelo menos 20 pontos cadastrados na região definida para a primeira versão                       |
 | Informações dos pontos | 100% dos pontos cadastrados devem possuir informações básicas e localização                      |
-| Localização            | Pelo menos 80% dos usuários de teste devem conseguir encontrar um ponto de interesse sem auxílio |
 | Mapa                   | 100% dos pontos que possuírem localização válida devem ser apresentados no mapa                  |
 | Recursos               | Os principais recursos cadastrados devem possuir informações sobre sua disponibilidade           |
 | Administração          | O administrador deve conseguir cadastrar, editar e remover pontos e informações                  |
